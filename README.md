@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi all 👋
+
+I’m a junior data analyst. With a master's in psychology, I’m passionate about solving social problems and mental health issues with analytics. Data science is the currently interest of mine.
+
+For further details 👀
+
+- Linkedin: https://www.linkedin.com/in/yen-chun-chen-profile/
+- Website: https://yenchun.netlify.app/
+
 
 <!--
 **yenchunnnn/yenchunnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
