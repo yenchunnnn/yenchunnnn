@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-I’m a data analyst. With a master's in psychology, I’m passionate about solving social problems and mental health issues with analytics. Data science is currently an interest of mine.
+With a master's in psychology, I’m passionate about solving social problems and mental health issues with analytics. Data science is currently an interest of mine.
 
 For further details 👀
 
