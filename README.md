@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-With a master's in psychology, I’m passionate about solving social problems and mental health issues with analytics. Data science is currently an interest of mine.
+I hold a MSc in psychology. I’m interested in the intersection of psychology and data science.
 
 For further details 👀
 
